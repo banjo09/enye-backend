@@ -1,0 +1,15 @@
+{
+  "name": "enye-backend",
+  "version": "1.0.0",
+  "description": "Currency exchange rates converter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
